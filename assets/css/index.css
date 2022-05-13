@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+hr {
+  margin: 10px 2px 30px 1px;
+  padding: 3px;
+  background-color: white;
+  background: -webkit-gradient(linear, left bottom, left top, from(#219406), color-stop(7%, #319609), color-stop(7%, #35970a), color-stop(19%, #0f709b), color-stop(35%, #634a87), color-stop(55%, #a5291b), color-stop(79%, #ca8823), to(#fdb52d));
+  background: linear-gradient(0deg, #219406 0%, #319609 7%, #35970a 7%, #0f709b 19%, #634a87 35%, #a5291b 55%, #ca8823 79%, #fdb52d 100%);
+}
+
+.second-text {
+  font-family: Visby CF,Sans-serif;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
+/*# sourceMappingURL=index.css.map */
